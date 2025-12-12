@@ -1,0 +1,7 @@
+{
+  "name": "RealityFixer",
+  "description": "An AI-powered diagnostic assistant that helps you fix real-world objects. Point your camera, snap a picture, and get step-by-step repair guides with visual annotations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
